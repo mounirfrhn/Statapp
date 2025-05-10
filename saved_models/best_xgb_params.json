@@ -1,0 +1,11 @@
+{
+  "xgb__max_depth": 9,
+  "xgb__min_child_weight": 0.8134417056458262,
+  "xgb__gamma": 0.07111162374448793,
+  "xgb__subsample": 0.9498240469822804,
+  "xgb__learning_rate": 0.0012924633427898436,
+  "xgb__colsample_bytree": 0.7798119087833925,
+  "xgb__reg_lambda": 0.7043225048604235,
+  "xgb__base_score": 0.000692834314530026,
+  "xgb__scale_pos_weight": 142.17810048405943
+}
